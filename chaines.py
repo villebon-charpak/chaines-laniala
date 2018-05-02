@@ -10,6 +10,7 @@
 #                                                                                               #
 #################################################################################################
 
+
 # Le but final de cette activité est d'écrire petit programme de cryptographie qui permet de chiffrer et déchiffrer des messages en utilisant le chiffrement de César. On devrait au final arriver notamment à déchiffrer des messages comme ceux-ci :
 
 message_secret1 = 'mhvxlvmxohvfhvdu'
